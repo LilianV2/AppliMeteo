@@ -55,7 +55,7 @@ btn.addEventListener("click", () => {
             document.body.style.backgroundRepeat = "no-repeat"
             document.body.style.backgroundSize = "cover"
         }
-        else if (weather.innerHTML === 'neige') {
+        else if (weather.innerHTML === 'légères chutes de neige') {
             document.body.style.backgroundImage = "url(img/neige.gif)"
             document.body.style.backgroundRepeat = "no-repeat"
             document.body.style.backgroundSize = "cover"
